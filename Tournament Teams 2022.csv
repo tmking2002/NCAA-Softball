@@ -1,0 +1,65 @@
+﻿Team,Region,TopSeed?
+Oklahoma,Norman,TRUE
+Prairie View,Norman,FALSE
+Texas A&M,Norman,FALSE
+Minnesota,Norman,FALSE
+UCF,Orlando,TRUE
+South Dakota State,Orlando,FALSE
+Michigan,Orlando,FALSE
+Villanova,Orlando,FALSE
+Northwestern,Evanston,TRUE
+Oakland,Evanston,FALSE
+Notre Dame,Evanston,FALSE
+McNeese,Evanston,FALSE
+Arizona State,Tempe,TRUE
+San Diego State,Tempe,FALSE
+LSU,Tempe,FALSE
+CSU Fullerton,Tempe,FALSE
+UCLA,Los Angeles,TRUE
+Grand Canyon,Los Angeles,FALSE
+Ole Miss,Los Angeles,FALSE
+Loyola Marymount,Los Angeles,FALSE
+Duke,Durham,TRUE
+Liberty,Durham,FALSE
+Georgia,Durham,FALSE
+UMBC,Durham,FALSE
+Washington,Seattle,TRUE
+Lehigh,Seattle,FALSE
+Texas,Seattle,FALSE
+Weber State,Seattle,FALSE
+Arkansas,Fayetteville,TRUE
+Wichita State,Fayetteville,FALSE
+Oregon,Fayetteville,FALSE
+Princeton,Fayetteville,FALSE
+Virginia Tech,Blacksburg,TRUE
+St. Francis (PA),Blacksburg,FALSE
+Kentucky,Blacksburg,FALSE
+Miami (OH),Blacksburg,FALSE
+Florida,Gainesville,TRUE
+Wisconsin,Gainesville,FALSE
+Georgia Tech,Gainesville,FALSE
+Canisius,Gainesville,FALSE
+Tennessee,Knoxville,TRUE
+Campbell,Knoxville,FALSE
+Ohio State,Knoxville,FALSE
+Oregon State,Knoxville,FALSE
+Alabama,Tuscaloosa,TRUE
+Murray State,Tuscaloosa,FALSE
+Stanford,Tuscaloosa,FALSE
+Chattanooga,Tuscaloosa,FALSE
+Oklahoma State,Stillwater,TRUE
+Fordham,Stillwater,FALSE
+Nebraska,Stillwater,FALSE
+North Texas,Stillwater,FALSE
+Clemson,Clemson,TRUE
+Louisiana,Clemson,FALSE
+Auburn,Clemson,FALSE
+UNCW,Clemson,FALSE
+Missouri,Columbia,TRUE
+Missouri State,Columbia,FALSE
+Illinois,Columbia,FALSE
+Arizona,Columbia,FALSE
+Florida State,Tallahassee,TRUE
+South Florida,Tallahassee,FALSE
+Mississippi State,Tallahassee,FALSE
+Howard,Tallahassee,FALSE
